@@ -15,7 +15,7 @@ Use this plugin with the bundler [Rollup](https://rollupjs.org).
 ### Installation
 
 ```sh
-$ npm i rollup-plugin-clean-dir -D
+$ npm i rollup-plugin-cleanup-dir -D
 ```
 
 ## Usage <a name = "usage"></a>
