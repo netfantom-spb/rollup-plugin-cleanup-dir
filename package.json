@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com.netfantom:netfantom-spb/rollup3-plugin-empty-dir.git"
+    "url": "https://github.com/netfantom-spb/rollup-plugin-cleanup-dir"
   },
   "keywords": [
     "rollup",

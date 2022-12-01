@@ -1,6 +1,6 @@
 Automatically empty the `output.dir` folder before writing a new bundle.
 
-<span style="color:green; font-weight: bold">It supports rollup3!</span>
+**Only rollup3 is supported!**
 
 ## Table of Contents
 
@@ -23,14 +23,14 @@ $ npm i rollup-plugin-clean-dir -D
 ```javascript
 // rollup.config.js
 
-import { cleanDir } from 'rollup-plugin-clean-dir'
+import { cleanupDir } from 'rollup-plugin-cleanup-dir'
 
 export default {
   input: '....',
   output: {
     dir: '...',
   },
-  plugins: [cleanDir()]
+  plugins: [cleanupDir()]
 }
 ```
 
