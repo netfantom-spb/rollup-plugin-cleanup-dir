@@ -23,7 +23,7 @@ $ npm i rollup-plugin-cleanup-dir -D
 ```javascript
 // rollup.config.js
 
-import { cleanupDir } from 'rollup-plugin-cleanup-dir'
+import cleanupDir from 'rollup-plugin-cleanup-dir'
 
 export default {
   input: '....',
