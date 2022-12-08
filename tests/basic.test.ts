@@ -1,5 +1,5 @@
 import fs from 'fs-extra'
-import { rollup, RollupOptions, OutputOptions } from 'rollup'
+import { rollup, OutputOptions } from 'rollup'
 import basic from './basic/rollup.config'
 
 fs.emptyDir = jest.fn(async () => {})

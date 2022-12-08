@@ -1,4 +1,4 @@
-import { cleanupDir } from '../../src/index'
+import cleanupDir from '../../src/index'
 import { join } from 'path'
 import { RollupOptions } from 'rollup'
 

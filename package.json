@@ -1,6 +1,6 @@
 {
   "name": "rollup-plugin-cleanup-dir",
-  "version": "1.0.0",
+  "version": "1.0.6",
   "description": "Automatically cleanup output.dir before writing a new bundle",
   "scripts": {
     "clean": "rm -rf ./dist",
